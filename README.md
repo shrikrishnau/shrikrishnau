@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOSIzNXT_R_HUI4rLvCItmgo7PxswwLPmr3QFtcD9xv7r4QVEl)](https://shrikrishnau.io)
+[![MasterHead](https://github.com/shrikrishnau/shrikrishnau/blob/main/dataanalytics.jpg)](https://shrikrishnau.io)
 
 <h1 align="center">Hi 👋, I'm Shri Krishna Uthirasamy</h1>
 <h3 align="center">A mechanical engineer inquisitive about the power of data</h3>
