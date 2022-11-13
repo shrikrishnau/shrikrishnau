@@ -1,15 +1,21 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjasperlpq%2Fjasperlpq&psig=AOvVaw2lWeNIyCMIJx-JOpYRR_DG&ust=1668419971904000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiurPjyqvsCFQAAAAAdAAAAABAG)](https://shrikrishnau.io)
-
+[![MasterHead](https://hexaware.com/wp-content/uploads/2021/03/a-shift-from-traditional-to-nextgen-it-operating-model-for-application-management.jpg)](https://shrikrishnau.io)
 
 <h1 align="center">Hi 👋, I'm Shri Krishna Uthirasamy</h1>
 <h3 align="center">A mechanical engineer inquisitive about the power of data</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966")
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrikrishnau&label=Profile%20views&color=0e75b6&style=flat" alt="shrikrishnau" /> </p>
 
+- 🌱 I’m currently learning **Advanced SQL concepts and Python programming concepts and libraries for Data Analysis**
+
 - 👨‍💻 All of my projects are available at [https://shrikrishnau.github.io/Portfolio/](https://shrikrishnau.github.io/Portfolio/)
 
+- 💬 Ask me about **SQL and Tableau**
+
 - 📫 How to reach me **shrikrishnauthirasamy@gmail.com**
+
+- ⚡ Fun fact **I know to cook a really good BIRIYANI!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
